@@ -1,5 +1,6 @@
 # Simple landing page
 Простой лендинг написанный на html и css
+
 Можно протестировать - https://samsushkacvc.github.io/Samsa/
 
 # Скриншот
