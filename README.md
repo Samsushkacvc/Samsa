@@ -1,5 +1,6 @@
 # Simple landing page
 Простой лендинг написанный на html и css
+Можно протестировать - samsushkacvc.github.io/Samsa/
 
 # Скриншот
 ![Alt text](/screenshot.png?raw=true "Скриншот лендинга")
